@@ -2,12 +2,11 @@
     "Records": [
         {
             "keywords": "elephant",
-            "limit": 50000,
+            "limit": 200,
             "print_urls": true,
             "output_directory": "/media/calvinku/BigStorage/Datasets/elephants/",
-            "proxy": "127.0.0.1:1080",
             "size": ">400*300",
-            "chromedriver": "./chromedriver"
+            "chromedriver": "/usr/lib/chromium-browser/chromedriver"
         }
     ]
 }
