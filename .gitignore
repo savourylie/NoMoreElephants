@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# SFTP
+sftp-config.json
+
+# Data
+data/
+
+# Libs
+chromedriver
